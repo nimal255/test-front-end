@@ -1,0 +1,13 @@
+.main_header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.button_addnew {
+    display: flex;
+}
+
+.button_addnew > button {
+    height: 35px;;
+}
